@@ -1,0 +1,19 @@
+
+v1.0
+
+    Crear un programa capaz de:
+    • Generar tablas de juego, con 10 números al azar en un archivo de texto. Por ejemplo: tabla1.txt. Con valores del 1 al 15.
+
+    • Una vez generada su tabla de juego, 
+
+    diseñe una nueva función que recupere estos números al azar y los guarde en un diccionario. 
+    Algo similar a:{1:’no jugado’, 2:’no jugado’,..., 10:’no jugado’., 15:’no jugado’}
+
+    •Diseñe una función Jugar y envíe como parámetro un número.
+    Así el usuario, una vez que empiece a ingresar números y estos coincidan con los números de su diccionario. 
+
+    Debe actualizar el diccionario  y sus estados,
+    e imprimir su diccionario actualizado:{1:’jugado’, 2:’no jugado’,..., 10:’no jugado’., 15:’jugado’}
+
+    •Cuando tenga al menos 5 coincidencias se termina el juego.
+
