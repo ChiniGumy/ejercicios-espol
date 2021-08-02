@@ -1,0 +1,4 @@
+Pedernales|Ambato,318|Azogues,555
+Ambato|Azogues,280|Babahoyo,212|Pedernales,318
+Azogues|Pedernales,555|Babahoyo,125
+Babahoyo|Ambato,250
